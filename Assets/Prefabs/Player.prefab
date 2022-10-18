@@ -68,6 +68,12 @@ MonoBehaviour:
   cameraYOffset: 0.7
   xMouseSensitivity: 30
   yMouseSensitivity: 30
+  moveSpeed: 7
+  runAccel: 14
+  runDeAccel: 20
+  gravity: 20
+  jumpSpeed: 8
+  friction: 6
   audioSource: {fileID: 0}
   jumpSfx: {fileID: 0}
 --- !u!82 &1264999518
